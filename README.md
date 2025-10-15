@@ -1,6 +1,6 @@
 #DEAW
 
-|USUARIO|ENLACE|
+|USU|ENLACE|
 |:-----|:-----|
 | DarelShroo | https://github.com/DarelShroo |
 | 60F10 | https://github.com/60F10 |
